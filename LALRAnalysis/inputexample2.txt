@@ -1,0 +1,11 @@
+#1b S' S L R #1e
+#2b = * id $ #2e
+#3b S' S #3e
+#4b
+#b S' $1 S #e
+#b S $1 L $2 = $1 R #e
+#b S $1 R #e
+#b L $2 * $1 R #e
+#b L $2 id #e
+#b R $1 L #e
+#4e

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LALRAnalysis", "LALRAnalysis\LALRAnalysis.vcxproj", "{55E662C3-1FE1-4BE0-8C44-34E3A8E99F3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55E662C3-1FE1-4BE0-8C44-34E3A8E99F3E}.Debug|x64.ActiveCfg = Debug|x64
+		{55E662C3-1FE1-4BE0-8C44-34E3A8E99F3E}.Debug|x64.Build.0 = Debug|x64
+		{55E662C3-1FE1-4BE0-8C44-34E3A8E99F3E}.Debug|x86.ActiveCfg = Debug|Win32
+		{55E662C3-1FE1-4BE0-8C44-34E3A8E99F3E}.Debug|x86.Build.0 = Debug|Win32
+		{55E662C3-1FE1-4BE0-8C44-34E3A8E99F3E}.Release|x64.ActiveCfg = Release|x64
+		{55E662C3-1FE1-4BE0-8C44-34E3A8E99F3E}.Release|x64.Build.0 = Release|x64
+		{55E662C3-1FE1-4BE0-8C44-34E3A8E99F3E}.Release|x86.ActiveCfg = Release|Win32
+		{55E662C3-1FE1-4BE0-8C44-34E3A8E99F3E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75049AC8-98D9-4321-9B76-12A1765C5A44}
+	EndGlobalSection
+EndGlobal
