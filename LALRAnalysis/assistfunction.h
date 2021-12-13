@@ -1,4 +1,4 @@
-#include "pch.h"
+#pragma once
 #include<set>
 #include<map>
 #include<string>
