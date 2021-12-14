@@ -152,12 +152,19 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="assistfunction.h" />
+    <ClInclude Include="DirectedGraph.h" />
+    <ClInclude Include="LALRAutomata.h" />
+    <ClInclude Include="LALRTableItem.h" />
     <ClInclude Include="Priority_Queue.h" />
     <ClInclude Include="TrieTree.h" />
     <ClInclude Include="pch.h" />
+    <ClInclude Include="FollowKAndDependency.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="LALR1Analysis.cpp" />
+    <ClCompile Include="LALRAutomata.cpp" />
+    <ClCompile Include="LALRState.h" />
+    <ClCompile Include="LALRTableItem.cpp" />
     <ClCompile Include="TrieTreeImplen.cpp" />
     <ClCompile Include="pch.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>

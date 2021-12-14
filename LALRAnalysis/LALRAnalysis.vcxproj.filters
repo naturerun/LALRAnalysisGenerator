@@ -27,6 +27,18 @@
     <ClInclude Include="pch.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="DirectedGraph.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LALRTableItem.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LALRAutomata.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FollowKAndDependency.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="LALR1Analysis.cpp">
@@ -36,6 +48,15 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="pch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LALRState.h">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LALRTableItem.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LALRAutomata.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
