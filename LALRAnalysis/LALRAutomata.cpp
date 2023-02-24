@@ -1972,7 +1972,7 @@ shared_ptr<map<string, set<string>>> LALRAutomata::calculateFirst()
 			{
 				if (compute_difference_set_result.empty() != true)
 				{
-					for (map<string, map<long, tuple<vector<NonTerminalSymbolInfo>, string, vector<NonTerminalSymbolInfo>::size_type, bool, set<string>>>>::iterator m = temp.begin(); m != p; ++m)
+					for (map<string, map<long, tuple<vector<NonTerminalSymbolInfo>, string, vector<NonTerminalSymbolInfo>::size_type, bool, set<string>>>>::iterator m = temp.begin(); m != temp.end(); ++m)
 					{
 						if (m != p)
 						{
