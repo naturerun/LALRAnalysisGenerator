@@ -1,0 +1,12 @@
+#1b E' E T F #1e
+#2b + * ( ) id $ #2e
+#3b E' E #3e
+#4b
+#b E' $1 E #e
+#b E $1 E $2 + $1 T #e
+#b E $1 T #e
+#b T $1 T $2 * $1 F #e
+#b T $1 F #e
+#b F $2 ( $1 E $2 ) #e
+#b F $2 id #e
+#4e

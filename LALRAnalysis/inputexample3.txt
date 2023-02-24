@@ -1,0 +1,9 @@
+#1b S' S C #1e
+#2b c d $ #2e
+#3b S' S #3e
+#4b
+#b S' $1 S #e
+#b S $1 C $1 C #e
+#b C $2 c $1 C #e
+#b C $2 d #e
+#4e
